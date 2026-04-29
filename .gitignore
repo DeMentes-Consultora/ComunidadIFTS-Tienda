@@ -1,0 +1,38 @@
+# Node, Angular y PHP
+node_modules/
+dist/
+build/
+.env
+.env.*
+.DS_Store
+*.log
+logs/
+vendor/
+composer.lock
+package-lock.json
+yarn.lock
+.idea/
+.vscode/
+coverage/
+# Archivos temporales
+*.tmp
+*.swp
+*.swo
+# Archivos del sistema
+Thumbs.db
+# Archivos de bases de datos locales
+*.sqlite
+*.db
+# Archivos de pruebas
+*.test.js
+*.test.ts
+# Archivos de imágenes locales
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+# Archivos de backup
+*~
+# Otros
+npm-debug.log*
