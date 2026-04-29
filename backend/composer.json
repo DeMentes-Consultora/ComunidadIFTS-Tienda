@@ -1,0 +1,23 @@
+{
+    "name": "dementes/comunidadifts-tienda-backend",
+    "description": "Backend API para Tienda ComunidadIFTS",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "vlucas/phpdotenv": "^5.5",
+        "phpmailer/phpmailer": "6.9",
+        "firebase/php-jwt": "^6.10",
+        "cloudinary/cloudinary_php": "^3.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DeMentes Consultora",
+            "email": "info@dementes.com"
+        }
+    ]
+}
