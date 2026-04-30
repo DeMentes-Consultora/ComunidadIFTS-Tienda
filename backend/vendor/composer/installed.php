@@ -3,7 +3,7 @@
         'name' => 'dementes/comunidadifts-tienda-backend',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'b008672878657fa345f773cdd1c9c38639a6b98c',
+        'reference' => '2ab236ead5153c72af0a27cc6de06d30217b8a1f',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -31,7 +31,7 @@
         'dementes/comunidadifts-tienda-backend' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'b008672878657fa345f773cdd1c9c38639a6b98c',
+            'reference' => '2ab236ead5153c72af0a27cc6de06d30217b8a1f',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
