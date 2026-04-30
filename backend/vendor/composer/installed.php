@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'dementes/comunidadifts-tienda-backend',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'b008672878657fa345f773cdd1c9c38639a6b98c',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -29,9 +29,9 @@
             'dev_requirement' => false,
         ),
         'dementes/comunidadifts-tienda-backend' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'b008672878657fa345f773cdd1c9c38639a6b98c',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

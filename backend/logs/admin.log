@@ -1,1 +1,2 @@
 [2026-04-29 02:40:40] user_id=1 action=CREAR_PRODUCTO details={"id_producto":2,"data":{"id_proveedor":"1","nombreProducto":"Producto Test","descripcionProducto":"desc","costo":"10","ganancia":"5","fotoProducto_url":"https:\/\/res.cloudinary.com\/dm8ds67tb\/image\/upload\/v1777430439\/productos\/phpA7DE_cvue4u.jpg","fotoProducto_public_id":"productos\/phpA7DE_cvue4u","precioFinal":10.5}}
+[2026-04-29 14:07:16] user_id=1 action=CREAR_PRODUCTO details=
